@@ -46,6 +46,8 @@ span{
      font-weight: 700;
      border-radius: 5px;
      border: none;
+     display: inline-block;
+     margin-top: 12px;
 }
 
 .dream-big{
@@ -54,4 +56,35 @@ span{
     background-image: url(/developer-portfolio-master/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 150px;
+}
+
+
+.flex-item{
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-between;
+    background-image: url(/developer-portfolio-master/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.stack{
+    width: 45%;
+    box-shadow: 10px 10px 40px gray;
+    /* padding: 50px 15px; */
+    padding-bottom:60px ;
+    padding-left: 25px;
+    border-left: 7px solid tomato;
+}
+.border{
+    border-left:7px solid navy;
+}
+.stack h3{
+      color: orange;
+ }
+ .experience{
+    margin-bottom:150px;
+ }
+footer {
+    text-align: center;
 }
