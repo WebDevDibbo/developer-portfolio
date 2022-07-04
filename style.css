@@ -5,6 +5,11 @@ h1{
     font-family: 'Poppins', sans-serif;
     font-size: 50px;
 }
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+
+}
 h3{
     font-family: 'Poppins', sans-serif;
 
@@ -19,12 +24,13 @@ p{
     padding: 0 100px;
     background-image: url(developer-portfolio-master/images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 160px;
 }
 .half-width{
     width: 50%;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
 }
 span{
     color: orange;
@@ -40,4 +46,12 @@ span{
      font-weight: 700;
      border-radius: 5px;
      border: none;
+}
+
+.dream-big{
+    display: flex;
+    padding: 0 100px;  
+    background-image: url(/developer-portfolio-master/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
