@@ -53,7 +53,7 @@ span{
 .dream-big{
     display: flex;
     padding: 0 100px;  
-    background-image: url(/developer-portfolio-master/images/dream-bg.png);
+    background-image: url(developer-portfolio-master/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     margin-bottom: 150px;
@@ -64,7 +64,7 @@ span{
     display: flex;
     padding: 0 100px;
     justify-content: space-between;
-    background-image: url(/developer-portfolio-master/images/exp-bg.png);
+    background-image: url(developer-portfolio-master/images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left bottom;
 }
