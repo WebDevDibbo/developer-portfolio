@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    /* font-weight: 400; */
+    color: dimgray;
+}
+.welcome{
+    display: flex;
+    padding: 0 100px;
+    background-image: url(developer-portfolio-master/images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
+span{
+    color: orange;
+}
+.link-button{
+     text-decoration: none;
+     background-color: #F88567;
+     padding: 10px 40px;
+     color: white;
+     font-size: 18px;
+     font-family: 'Poppins', sans-serif;
+     text-transform: uppercase;
+     font-weight: 700;
+     border-radius: 5px;
+     border: none;
+}
